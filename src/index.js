@@ -1,3 +1,5 @@
+import './css/index.css'
+
 import {helloWorld} from './hello-world.js';
 
 helloWorld();
